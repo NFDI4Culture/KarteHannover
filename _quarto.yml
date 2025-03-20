@@ -5,7 +5,8 @@ project:
 book:
   title: "Karte Hannover"
 #  author: "Norah Jones"
-  date: today
+  date: now
+  date-format: YYYY-MM-DDTHH:mm:ssZ
   favicon: ./images/favicon-32x32.png
   chapters:
     - index.ipynb
