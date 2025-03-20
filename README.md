@@ -2,6 +2,8 @@
 
 Part of CPS Demo #2 - https://github.com/NFDI4Culture/cps-demo-2
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/)
+
 ## The service
 
 Computational Publishing Service (CPS) uses Jupyter Notebooks to publish from cultural digital collections using Linked Open Data, and Wikidata and Wikibase. The service is designed to sit on top of existing NFDI4Culture Linked Open Data infrastructure.
